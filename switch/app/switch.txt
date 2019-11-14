@@ -1,1 +1,1 @@
-(内容)(tianyantong)(switch)on(/switch)(tongji)off(/tongji)(url)http://(/url)(/tianyantong)(/内容)
+(内容)(tianyantong)(switch)on(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(/tianyantong)(/内容)
