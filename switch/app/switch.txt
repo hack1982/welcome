@@ -1,2 +1,2 @@
 (内容)(tianyantong)(switch)on(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(/tianyantong)
-(jiuwei)(switch)on(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(api)http://qmm.jiuweimm.com/get.php(/api)(/jiuwei)(/内容)
+(jiuwei)(switch)on(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(api)https://qmm.jiuweimm.com/get.php(/api)(/jiuwei)(/内容)
