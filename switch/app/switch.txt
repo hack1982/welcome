@@ -1,4 +1,0 @@
-(内容)(tianyantong)(switch)on(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(/tianyantong)
-(jiuwei)(switch)off(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(api)https://qmm.jiuweimm.com/get.php(/api)(/jiuwei)
-(baihuagu)(switch)off(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(api)http://api.hclyz.com:81/mf/(/api)(/baihuagu)
-(jilekongjian)(switch)off(/switch)(tongji)off(/tongji)(url)http://(/url)(host)http://ruanapi.com(/host)(api)https://qmm.jiuweimm.com/get.php(/api)(/jilekongjian)(/内容)
